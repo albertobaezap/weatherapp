@@ -1,7 +1,7 @@
 # WeatherApp
 Display the weather of a random location using the Open Weather Map API
 
-![Screenshot_1626856606](https://user-images.githubusercontent.com/6639333/126458405-cbb4853d-e49c-4f95-97c2-1646057abcbd.png)
+<img src="https://user-images.githubusercontent.com/6639333/126458405-cbb4853d-e49c-4f95-97c2-1646057abcbd.png" width="400" />
 
 ## Solution overview
 Created using Clean architecture, with MVVM pattern, Kodein DI and Retrofit coroutines.
